@@ -17,16 +17,15 @@ bash
 Copy code
 git clone https://github.com/yourusername/netflix-inspired-design.git
 Navigate to the project directory and install dependencies:
-bash
-Copy code
-cd netflix-inspired-design
-npm install
-Start the development server:
-bash
-Copy code
-npm run dev
-Open the app in your browser, and you’re all set! 🌐
-Feel free to contribute, suggest improvements, or just take a peek at the code! 🍿✨
+
+### cd ( cloned folder )
+#### npm install start
+For the development server, then
+
+#### npm run dev
+ to Open the app in your browser, and you’re all set! 🌐
+
+#### Feel free to contribute, suggest improvements, or just take a peek at the code! 🍿✨
 
 Happy sailing jefes! 😊👨‍💻👩‍💻
 
