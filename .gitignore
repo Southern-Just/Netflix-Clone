@@ -31,3 +31,6 @@ dist-ssr
 *.bmp
 *.tiff
 *.svg
+
+node_modules/
+
