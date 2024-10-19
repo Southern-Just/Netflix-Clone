@@ -1,4 +1,4 @@
-🎬 Netflix-Inspired Design Project 🎨💻
+# 🎬 Netflix-Inspired Design Project 🎨💻
 I had this awesome idea to use Netflix as my design inspiration in Figma. Now, let’s delve into the serious coding—after all, that's what we do! 🛠️🚀
 
 ✨ What's Inside?
